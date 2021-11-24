@@ -45,7 +45,12 @@ O e-commerce, segundo Nakamura (2011) é toda atividade de compra e venda realiz
 
 A platarforma de e-commerce estudada já é desenvolvida pela empresa parceira, porém de forma manual no quisito de recomendação de ítens e possui o nome de Homelist. Disponível em versão de aplicativo mobile e também em uma plataforma web, como mostram as figuras 1 e 2,  a empresa trablha com venda de produtos de supermercado e busca junto ao programa de computação aplicada desenvolver um algoritmo que seja capaz de realizar uma predição nesses ítens que possuem características de compras recorrentes aos clientes.
 
+<<<<<<< HEAD
 Tendo em vista esses fatos, é imprescindível que a empresa Homelist, bem como empresas que buscam trabalhar com esse tipo de comércio, abordem estratégias que possam estar de acordo com a evolução tecnológica. Vale ressaltar que o comércio eletrónico, além de realizar compras e vendas de mercadorias, abrange também a entrega ou torca de informações, a prestração de serviçõs ao cliente antes e depois de uma venda, a colaboração comparceiros e negócios e o esforço para aumentar a produtividade dentro das organizações Napier (2006).
+=======
+
+Vale ressaltar que o comércio eletrónico, além de realizar compras e vendas de mercadorias, abrange também a entrega ou torca de informações, a prestração de serviçõs ao cliente antes e depois de uma venda, a colaboração comparceiros e negócios e o esforço para aumentar a produtividade dentro das organizações Napier (2006).
+>>>>>>> 4243bc01e68591d8e4f8be9d646b4ccab52f0561
 
 Para conluir os referencias sobre e-commerce, baseando-se nos pressupostos já citados, incluímos de maneira mais simples o que foi dito por Neto (2017), que se trata de um tipo de comércio virtual que premite uma interação entre as empresas e os consumidores, seja ela por meio da compra e venda ou até mesmo pela troca de produtos, serviços ou informações.
 
