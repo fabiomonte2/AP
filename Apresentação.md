@@ -4,7 +4,7 @@
 
 ### Tema: 
 
-Predição de itens em compras recorrentes.
+Predição de itens em compras recorrentes
 
 ## Introdução
 3 a 4 paragrafos
