@@ -7,7 +7,11 @@
 Predição de itens em compras recorrentes
 
 ## Introdução
-3 a 4 paragrafos
+Com o advento da internet, vemos cada vez mais hábitos sendo mudados e migrando para o mundo da rede. As platarformas online de compra são um exemplo de como as pessoas estão substituindo a forma de adquirir produtos e para os comerciantes, a recompra de um cliente é fundamental Liu (2020). 
+Ainda sobre Liu (2020), os aspectos estudados que influenciam na recompra podem ser: da confiança e do comprometimento como fator intermediário importante, a satisfação específica da transação, a falha do comerciante em atender o pedido conforme esperado, o que o cliente deseja em um ambiente de compra e o processo de entrega do produto adquirido. Entender esses e outros aspectos é fundamental para a escolha de um modelo de predição que irá recomendar uma lista de produtos que irão influenciar a recompra.
+Segundo Pavlyshenko (2019) a previsão de vendas é uma parte importante para empresas atuais tornem seus negócios mais inteligentes. Nesse aspecto, as vendas podem ser consideradas como um tipo de série temporal que devem ser analisadas baseando-se em abordagens diferenciadas para prever cada tipo.
+
+
 
 ###  O problema
 
@@ -15,11 +19,9 @@ Alguns tipos de artigos, como por exemplo os hortifruti, possuem uma recorrênci
 
 A empresa parceira desta pesquisa, a Homelist, atua de maneira manual em relação a predição de itens, que no caso do supermercado, exercem função de compras recorrentes. Com as platarformas disponíveis ao cliente é possível receber pedidos até um certo momento, e os funcionários é quem fazem as compras e entregas dos supermercados selecionados anteriormente.
 
-Sendo assim, buscaremos respostas das seguintes perguntas nessa pesquisa: Como proporcionar aos usuários da plataforma web e aplicativo uma experiência diferenciada em relação a compras recorrentes? Quais algoritmos são candidatos para serem usados? uma vez que a forma com que esses algoritmos podem ser usados pode variar, assim como o resultado a ser obtido. 
+Sendo assim, buscaremos respostas das seguintes perguntas nessa pesquisa: Como proporcionar aos usuários da plataforma web e aplicativo uma experiência diferenciada em relação a compras recorrentes? Quais algoritmos são candidatos para serem usados? uma vez que a forma com que esses algoritmos podem ser usados pode variar, assim como o resultado a ser obtido. Desta forma, apenas uma aplicação deve ser capaz de sugerir, de forma acurada, itens de recorrência mista na lista dos clientes.
 
-Desta forma, apenas uma aplicação deve ser capaz de sugerir, de forma acurada, itens de recorrência mista na lista dos clientes.
-
-### Proposta 
+### A proposta 
 
 ?????
 
@@ -43,9 +45,7 @@ O e-commerce, segundo Nakamura (2011) é toda atividade de compra e venda realiz
 
 A platarforma de e-commerce estudada já é desenvolvida pela empresa parceira, porém de forma manual no quisito de recomendação de ítens e possui o nome de Homelist. Disponível em versão de aplicativo mobile e também em uma plataforma web, como mostram as figuras 1 e 2,  a empresa trablha com venda de produtos de supermercado e busca junto ao programa de computação aplicada desenvolver um algoritmo que seja capaz de realizar uma predição nesses ítens que possuem características de compras recorrentes aos clientes.
 
-Tendo em vista aos fatos mensionados acima é imprescindível que a empresa Homelist, bem como empresas que buscam trabalhar com esse tipo de comércio, abordem estratégias que possam estar de acordo com a evolução tecnológica, pois como salienta Dionísio et. al. (2012), a presença nas redes online é cada vez mais condição para o sucesso empresarial.
-
-Vale ressaltar que o comércio eletrónico, além de realizar compras e vendas de mercadorias, abrange também a entrega ou torca de informações, a prestração de serviçõs ao cliente antes e depois de uma venda, a colaboração comparceiros e negócios e o esforço para aumentar a produtividade dentro das organizações Napier (2006).
+Tendo em vista esses fatos, é imprescindível que a empresa Homelist, bem como empresas que buscam trabalhar com esse tipo de comércio, abordem estratégias que possam estar de acordo com a evolução tecnológica. Vale ressaltar que o comércio eletrónico, além de realizar compras e vendas de mercadorias, abrange também a entrega ou torca de informações, a prestração de serviçõs ao cliente antes e depois de uma venda, a colaboração comparceiros e negócios e o esforço para aumentar a produtividade dentro das organizações Napier (2006).
 
 Para conluir os referencias sobre e-commerce, baseando-se nos pressupostos já citados, incluímos de maneira mais simples o que foi dito por Neto (2017), que se trata de um tipo de comércio virtual que premite uma interação entre as empresas e os consumidores, seja ela por meio da compra e venda ou até mesmo pela troca de produtos, serviços ou informações.
 
